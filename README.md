@@ -19,9 +19,8 @@ Mobile:
 Desktop: 
 ![](./images/desktop.png)
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR CODE COMPONENT](https://memecgavante.github.io/QR-code-compoent/)
+- Commit history: [History](https://github.com/memecgavante/QR-code-compoent/commits/main)
 
 ## My process
 1. Took a look at the designs and all the files in the template
